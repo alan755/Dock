@@ -1,2 +1,2 @@
 # Dock
-Dock is a desktop application written in python,used to save any data with at most security on any system.It can save any data containing english alpabets or numbers.
+Dock is a desktop application coded in python which can be used to save any data with at securly on any system(password protected).The data may be english alpabets or numbers.
